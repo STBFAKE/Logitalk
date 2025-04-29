@@ -18,7 +18,7 @@ class MainWindow(CTk):
         self.label = None
 
 
-        self.user_name = "Dmytro"
+        self.user_name = "Daniil"
 
 
         self.menu_frame = CTkFrame(self, width=30, height=300)
